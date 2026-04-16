@@ -1,4 +1,7 @@
 # 🌐 Sapiens OS: The Digital Firmware for the Conscious Human
+
+🤖 **Bot is live! Try it here:** [https://t.me/decision_os_bot](https://t.me/decision_os_bot)
+
 ### "Bridging Ancient Wisdom and Future Tech"
 **Sapiens OS** is an open-source initiative dedicated to building a decentralized ecosystem for holistic human development. In an era of algorithmic manipulation and digital fragmentation, we are architecting a "human firmware"—a systematic approach to ethics, discipline, and mindfulness, secured by sovereign technology.
 
