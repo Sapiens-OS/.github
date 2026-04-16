@@ -23,13 +23,8 @@ We are currently in the Architecting & Prototyping Phase. Our strategy involves 
 - **Account Abstraction:** Seamless Web2-like onboarding (Social Login/Passkeys) with non-custodial wallets generated invisibly in the background.
 
 ### 🏗 Key Repositories
-_in progerss..._
+[Base Telegram bot like decision helper] (https://github.com/Sapiens-OS/decision-bot_base)
 
-[//]: # (core-logic — System prompts, ethical frameworks, and the logic of the Three Modules.)
-
-[//]: # (trust-layer — Smart contracts for progress tracking, DAO governance, and transparent "tithe" distribution.)
-
-[//]: # (local-brain — Tooling for deploying sovereign AI assistants on personal hardware.)
 
 ### 🤝 Join the Architecture
 We are looking for developers, philosophers, and sovereign-tech enthusiasts who believe that:
